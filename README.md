@@ -9,4 +9,7 @@ ZFile一键搭建脚本
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/zfile-on-replit/master/install.sh)
 ```
+## 鸣谢
+- [Replit](https://github.com/replit)
+- [ZFile](https://github.com/zfile-dev/zfile)
 
