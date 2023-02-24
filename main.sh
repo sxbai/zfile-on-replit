@@ -1,0 +1,1 @@
+java -jar zfile-4.1.3.jar --spring.config.location=file:application.properties
