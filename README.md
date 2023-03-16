@@ -20,12 +20,12 @@
 欢迎Fork本项目，ZFile-On-Alist      
 因为Replit使用官方的Jar
 ```
-java jar zfile.jar
+java -jar zfile.jar
 
 ```
 过几小时就会重置一次数据库，于是通过添加自定义工作目录参数
 ```bash
-java jar zfile.jar --zfile.log.path=/home/runner/${REPL_SLUG}/.zfile-v4/logs --zfile.db.path=/home/runner/${REPL_SLUG}/.zfile-v4/db/zfile
+java -jar zfile.jar --zfile.log.path=/home/runner/${REPL_SLUG}/.zfile-v4/logs --zfile.db.path=/home/runner/${REPL_SLUG}/.zfile-v4/db/zfile
 ```
 把工作目录改到/home/runner/项目名字   
 从根源上解决了反复重置数据库的问题。  
