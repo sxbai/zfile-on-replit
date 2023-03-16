@@ -1,17 +1,17 @@
 <p align="center">
-<a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://www.zfile.vip/assets/zfile-horizontal.abd5aec9.svg"/></a>
+<a href="https://github.com/zfile-dev/zfile"><img height="100px" alt="logo" src="https://www.zfile.vip/assets/zfile-horizontal.abd5aec9.svg"/></a>
 </p>
 
-<p align="center"><b>Zfile</b>部署于Replit，一个支持多种存储方式的文件列表程序，由Gin和Solidjs驱动。</p>
+<p align="center"><b>Zfile</b>部署于Replit，基于 Java 的在线网盘程序，支持对接 S3、OneDrive、SharePoint、Google Drive、多吉云、又拍云、本地存储、FTP、SFTP 等存储源，支持在线浏览图片、播放音视频，文本文件、Office、obj（3d）等文件类型。</p>
 
 <p align="center">
-<a href="https://github.com/sxbai/alist-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/alist-on-replit.svg?style=flat-square&include_prereleases" /></a>
-<a href="https://github.com/sxbai/alist-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/alist-on-replit.svg?style=flat-square" /></a>
+<a href="https://github.com/sxbai/alist-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/zfile-on-replit.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/sxbai/alist-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/zfile-on-replit.svg?style=flat-square" /></a>
 
 <br />
 <a href="https://blog.sxbai.com">博客</a>
-<a href="https://alist.nn.ci/zh/">文档</a>
-<a href="https://github.com/alist-org/alist/discussions">社区</a>
+<a href="https://docs.zfile.vip/">文档</a>
+<a href="https://bbs.zfile.vip/">论坛</a>
 <a href="https://t.me/sxbai">Telegram 频道</a>
 </p>
 
