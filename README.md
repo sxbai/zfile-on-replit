@@ -5,8 +5,8 @@
 <p align="center"><b>Zfile</b>部署于Replit，基于 Java 的在线网盘程序，支持对接 S3、OneDrive、SharePoint、Google Drive、多吉云、又拍云、本地存储、FTP、SFTP 等存储源，支持在线浏览图片、播放音视频，文本文件、Office、obj（3d）等文件类型。</p>
 
 <p align="center">
-<a href="https://github.com/sxbai/alist-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/zfile-on-replit.svg?style=flat-square&include_prereleases" /></a>
-<a href="https://github.com/sxbai/alist-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/zfile-on-replit.svg?style=flat-square" /></a>
+<a href="https://github.com/sxbai/zfile-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/zfile-on-replit.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/sxbai/zfile-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/zfile-on-replit.svg?style=flat-square" /></a>
 
 <br />
 <a href="https://blog.sxbai.com">博客</a>
