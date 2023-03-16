@@ -18,7 +18,16 @@
 ------------------------------
 # 使用说明
 欢迎Fork本项目，ZFile-On-Alist      
-因为Replit使用官方的Jar，过几小时就会重置一次数据库（有时候几十分钟），我把工作目录改到/home/runner/项目名字   
+因为Replit使用官方的Jar
+```
+java jar zfile.jar
+
+```
+过几小时就会重置一次数据库，于是通过添加自定义工作目录参数
+```bash
+java jar zfile.jar --zfile.log.path=/home/runner/${REPL_SLUG}/.zfile-v4/logs --zfile.db.path=/home/runner/${REPL_SLUG}/.zfile-v4/db/zfile
+```
+把工作目录改到/home/runner/项目名字   
 从根源上解决了反复重置数据库的问题。  
 
 一键搭建脚本 (环境选择`Bash` 或 `Blank Repl`)   
